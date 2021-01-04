@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.fjndljh.repository.ReplyRepository">
+    <insert id="save" parameterType="com.fjndljh.entity.Reply">
+        insert into reply values (NULL, #{blogID}, #{userName}, #{replyWords}, #{replyTime})
+    </insert>
+    <select id="findByBlogID" parameterType="long" resultType="com.fjndljh.entity.Reply">
+        select * from reply where blogID=#{blogID} order by replyTime
+    </select>
+    <delete id="deleteReply" parameterType="long">
+        delete from reply where replyID=#{id}
+    </delete>
+    <delete id="deleteReplyByBlogID" parameterType="long">
+        delete from reply where blogID=#{id}
+    </delete>
+</mapper>

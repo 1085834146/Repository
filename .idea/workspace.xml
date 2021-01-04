@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HomeWork_blog:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3c359a9-1979-44bf-9aca-fb54d09880b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_12_22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/Controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/Controller/ReplyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/entity/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/entity/Reply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/repository/BlogRepository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/repository/ReplyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/repository/ReplyRepository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjndljh/repository/UserRepository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/allBlog.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/blogPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/erronPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/showBlog.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/signIn.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/Controller/BlogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/Controller/ReplyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/Controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/entity/Blog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/entity/Reply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/repository/BlogRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/repository/BlogRepository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/repository/ReplyRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/repository/ReplyRepository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fjndljh/repository/UserRepository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/META-INF/HomeWork_blog.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/Controller/BlogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/Controller/ReplyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/Controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/entity/Blog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/entity/Reply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/repository/BlogRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/repository/BlogRepository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/repository/ReplyRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/repository/ReplyRepository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/com/fjndljh/repository/UserRepository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/classes/mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/allBlog.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/blogPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/erronPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/showBlog.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/itheima_ssm-1.0-SNAPSHOT/signIn.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test1.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d7eb2f45-d8d1-4007-9592-27b9fd1d884b" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\myMaven\apache-maven-3.6.3-bin\repository" />
+        <option name="userSettingsFile" value="D:\myMaven\apache-maven-3.6.3-bin\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lzVNBk6Yno3pBwWw6490X0GqBf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\eclipse-workspace\HomeWork_12_22\src\main\webapp\page" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat-2">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1.test11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork_12_22" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <option name="METHOD_NAME" value="test11" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat-2" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat " ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/login.jsp" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="HomeWork_blog:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_HomeWork_12_22" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61889" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="HomeWork_12_22:war exploded" />
+          <artifact name="HomeWork_blog:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.test1.test11" />
+      <item itemvalue="Tomcat Server.tomcat-2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test1.test11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.19405204" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3c359a9-1979-44bf-9aca-fb54d09880b4" name="Default Changelist" comment="" />
+      <created>1608599863264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608599863264</updated>
+      <workItem from="1608599865806" duration="7372000" />
+      <workItem from="1608608118601" duration="8174000" />
+      <workItem from="1608641792324" duration="38000" />
+      <workItem from="1608641856911" duration="16719000" />
+      <workItem from="1608705363282" duration="1071000" />
+      <workItem from="1608706462759" duration="24070000" />
+      <workItem from="1608791636153" duration="19287000" />
+      <workItem from="1609667537730" duration="1812000" />
+      <workItem from="1609687064066" duration="1627000" />
+      <workItem from="1609723196244" duration="718000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

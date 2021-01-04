@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.fjndljh.repository.UserRepository">
+    <!--    添加操作在数据库中的返回值就是int类型，即受影响的行数，因此不需要指定resultType-->
+    <insert id="save" parameterType="com.fjndljh.entity.User">
+        insert into user(userName, password) values(#{userName}, #{password})
+    </insert>
+    <select id="findByName" parameterType="java.lang.String" resultType="com.fjndljh.entity.User">
+        select * from user where userName = #{userName}
+    </select>
+    <select id="findByUser" parameterType="com.fjndljh.entity.User" resultType="com.fjndljh.entity.User">
+        select * from user where userName = #{userName} and password = #{password}
+    </select>
+
+</mapper>

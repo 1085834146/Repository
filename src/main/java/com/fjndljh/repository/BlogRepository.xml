@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.fjndljh.repository.BlogRepository">
+    <insert id="save" parameterType="com.fjndljh.entity.Blog">
+        insert into blog(blogID, userName, title, article, blogDate) values (NULL, #{userName}, #{title}, #{article}, #{blogDate})
+    </insert>
+    <select id="findByUser" parameterType="com.fjndljh.entity.User" resultType="com.fjndljh.entity.Blog">
+        select * from blog where userName=#{userName} order by blogDate desc
+    </select>
+    <select id="findById" parameterType="long" resultType="com.fjndljh.entity.Blog">
+        select * from blog where blogID=#{id}
+    </select>
+    <select id="findAll" resultType="com.fjndljh.entity.Blog">
+        select * from blog;
+    </select>
+    <delete id="deleteBlog1" parameterType="long">
+        delete from blog where blogID=#{id}
+    </delete>
+    <delete id="deleteBlog2" parameterType="com.fjndljh.entity.Blog">
+        delete from blog where blogID=#{blogID}
+    </delete>
+</mapper>
